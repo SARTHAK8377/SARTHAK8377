@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SARTHAK8377&label=Profile%20views&color=6a11cb&style=for-the-badge" alt="Profile views" />
+  <img src="https://hits.sh/github.com/SARTHAK8377.svg?style=for-the-badge&label=Profile%20views&color=6a11cb" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/SARTHAK8377?style=for-the-badge&color=2575fc&label=Followers" alt="Followers" />
 </p>
 
